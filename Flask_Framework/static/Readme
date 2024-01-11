@@ -1,0 +1,2 @@
+n Flask, the static folder is used to store static files such as stylesheets (CSS), client-side JavaScript, images, and other assets. 
+These files are typically served directly by the web server and are not processed dynamically by Flask.
