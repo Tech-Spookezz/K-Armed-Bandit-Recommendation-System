@@ -1,1 +1,3 @@
+In Flask, the templates folder is typically used to store HTML templates. 
+Flask uses the Jinja templating engine, and having a dedicated folder for templates helps organize and manage the HTML files that your application renders.
 
